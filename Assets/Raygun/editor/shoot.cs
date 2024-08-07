@@ -1,8 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Animations.Rigging;
-using ThunderRoad;
 
 public class shoot : MonoBehaviour
 {
