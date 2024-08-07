@@ -6396,6 +6396,7 @@ GameObject:
   - component: {fileID: 7386203007499135785}
   - component: {fileID: 7386203007499135798}
   - component: {fileID: 7386203007499135799}
+  - component: {fileID: 8861088396482027764}
   m_Layer: 0
   m_Name: Raygun
   m_TagString: Untagged
@@ -6476,6 +6477,23 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &8861088396482027764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7386203007499135796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 243188831, guid: ea1d58af2a2d9e942948290586cc4e57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 4254874461745165192, guid: 781c6694d47e66e43b634f3064c95ad3,
+    type: 3}
+  shootSound: {fileID: 4159192099835188141}
+  shootEffect: {fileID: 7386203006836921484}
+  shootPoint: {fileID: 7386203006836921483}
 --- !u!1 &7656252758829290976
 GameObject:
   m_ObjectHideFlags: 0
