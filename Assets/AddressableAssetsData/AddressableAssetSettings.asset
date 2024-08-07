@@ -30,7 +30,7 @@ MonoBehaviour:
   m_StripUnityVersionFromBundleBuild: 1
   m_DisableVisibleSubAssetRepresentations: 0
   m_ShaderBundleNaming: 2
-  m_ShaderBundleCustomNaming: Proto
+  m_ShaderBundleCustomNaming: Raygun
   m_MonoScriptBundleNaming: 0
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
@@ -42,16 +42,16 @@ MonoBehaviour:
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 2
-  m_overridePlayerVersion: Proto
+  m_overridePlayerVersion: Raygun
   m_GroupAssets:
-  - {fileID: 11400000, guid: fbe88945f5fd22549a3b2283780ee7c2, type: 2}
   - {fileID: 11400000, guid: cfc7bd780798872419ab40cac555580b, type: 2}
-  - {fileID: 11400000, guid: 7b5cd7845295efe449821e24b3a47891, type: 2}
   - {fileID: 11400000, guid: dada93e4e3a09ef4ba4a1759a0d8f911, type: 2}
   - {fileID: 11400000, guid: 256939aa0931a9f448e8a6a0765902d7, type: 2}
   - {fileID: 11400000, guid: 9f937fc8a19b3ae429f92c02db43898a, type: 2}
   - {fileID: 11400000, guid: 6c00cdf8a2c6afb419ce6148fbb245c0, type: 2}
   - {fileID: 11400000, guid: 8056bd77f330a8348bb12d7cb956bea0, type: 2}
+  - {fileID: 11400000, guid: 07f72c3eb33fec14e8ef61132255f17b, type: 2}
+  - {fileID: 11400000, guid: 13923f360acfbc044b2f514f25a2b1d1, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -72,7 +72,7 @@ MonoBehaviour:
       - m_Id: 3868748ffde3b334bbd8b7acf4ed429e
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}'
       - m_Id: ebabd56f856c87f47810de635632fa27
-        m_Value: '{ThunderRoad.FileManager.aaModPath}/Proto'
+        m_Value: '{ThunderRoad.FileManager.aaModPath}/Raygun'
     m_ProfileEntryNames:
     - m_Id: ce15733c007f6d84a9cd434894e23ab1
       m_Name: DefaultBuildPath

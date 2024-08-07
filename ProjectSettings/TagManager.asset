@@ -52,6 +52,7 @@ TagManager:
   - OceanReflectionCamera
   - RoomStaticBatch
   - AlwaysFreeClimb
+  - Projectile
   layers:
   - Default
   - TransparentFX
