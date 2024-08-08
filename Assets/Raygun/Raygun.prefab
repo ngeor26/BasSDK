@@ -377,7 +377,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 723210de75e315c4c8b055535ca56512, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.25
+  m_Volume: 0.65
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -6396,7 +6396,7 @@ GameObject:
   - component: {fileID: 7386203007499135785}
   - component: {fileID: 7386203007499135798}
   - component: {fileID: 7386203007499135799}
-  - component: {fileID: 8861088396482027764}
+  - component: {fileID: 8597797964921575987}
   m_Layer: 0
   m_Name: Raygun
   m_TagString: Untagged
@@ -6477,7 +6477,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &8861088396482027764
+--- !u!114 &8597797964921575987
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
