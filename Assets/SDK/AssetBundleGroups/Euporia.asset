@@ -10,17 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e3c7edbc99395547b62493aeaeb1465, type: 3}
-  m_Name: NewMod
+  m_Name: Euporia
   m_EditorClassIdentifier: 
-  folderName: NewMod
+  folderName: Euporia
   isDefault: 0
-  addressableAssetGroups: []
-  selected: 0
-  exportAfterBuild: 0
-  isMod: 0
-  exportModManifest: 0
-  modName: Unknown
-  modDescription: Unknown
-  modAuthor: Unknown
+  addressableAssetGroups:
+  - {fileID: 11400000, guid: dec7b249771aebf478b4c4d652f10b0f, type: 2}
+  selected: 1
+  exportAfterBuild: 1
+  isMod: 1
+  exportModManifest: 1
+  modName: Euporia
+  modDescription: The legendary Euporia from Elden Ring's Land of Shadow
+  modAuthor: ArcaneWarrior13
   modVersion: 1.0
   modThumbnail: 

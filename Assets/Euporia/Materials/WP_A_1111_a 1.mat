@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: low_pasted__Mango1_BaseColor.1001
+  m_Name: WP_A_1111_a 1
   m_Shader: {fileID: -6465566751694194690, guid: f2ccc783dd448614ebfe96a78331e1de,
     type: 3}
   m_ValidKeywords:
@@ -16,8 +16,6 @@ Material:
   - LAYER_MAX3
   - MODED_MOSS
   - TEXTURE_MAX8
-  - _METALLICSPECGLOSSMAP_ON
-  - _NORMALMAP
   - _SIMPLESTOCHASTIC
   - _USECAUSTICEXTRASAMPLER_ON
   - _USECAUSTICRAINBOW_ON
@@ -39,7 +37,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 17bedc59527976c428f3cf989ed87090, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Billboard:
@@ -47,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 17ba58f884a1fce4c8a6c73e1ca74e77, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ColorMask:
@@ -103,11 +101,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 17bedc59527976c428f3cf989ed87090, type: 3}
+        m_Texture: {fileID: 2800000, guid: 040ff517b5d472e4ea1c338b54cde60f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: b28d49cb99ca84945998bec9d777e3a2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3ddf850c57ccba947beaad9fd2e4c5b7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MossMetalMap:
@@ -265,7 +263,7 @@ Material:
     - _MapContrastOffset: 0.5
     - _MetalUV: 0
     - _Metallic: 1
-    - _MetallicSpecGlossMap: 1
+    - _MetallicSpecGlossMap: 0
     - _Moss: 0
     - _MossBase: 0.5
     - _MossDetailNormalMapScale: -2
@@ -289,7 +287,7 @@ Material:
     - _MossStochasticScale: 1
     - _MossUV: 0
     - _NormalMossMask_MOSS_UseNormalMap: -1
-    - _NormalStrength: 1
+    - _NormalStrength: 5
     - _NormalStrength_USE_SSS: 0.5
     - _Occlusion: 1
     - _OcclusionMossMask: -1
@@ -341,14 +339,14 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 1, g: 0.9138002, b: 0.084905505, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DRAWERVectorSlider_MossFresnelFirstSliderSecondSliderThirdSlider_MOSS_UseMossFresnel: {r: 0,
         g: 0, b: 0, a: 0}
     - _DetailMapScale: {r: 1, g: 1, b: 0, a: 0}
     - _DetailMaskRemap: {r: 0, g: 1, b: 0, a: 1}
     - _DetailSmoothnessRemap: {r: 0, g: 1, b: -1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0.92363894, g: 0.8428821, b: 0.3688746, a: 1}
     - _EmissionRemap: {r: 0, g: 1, b: 0, a: 1}
     - _Layer3EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _LayerSurfaceExp: {r: 1, g: 1, b: 1, a: 1}
@@ -372,7 +370,7 @@ Material:
     - _Tint2: {r: 0, g: 0, b: 1, a: 1}
     - _Tint3: {r: 1, g: 0, b: 0.40315866, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &564840363475297788
+--- !u!114 &818433938861792018
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

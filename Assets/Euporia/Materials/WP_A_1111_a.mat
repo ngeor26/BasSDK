@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: low_pasted__Mango1_BaseColor.1001
+  m_Name: WP_A_1111_a
   m_Shader: {fileID: -6465566751694194690, guid: f2ccc783dd448614ebfe96a78331e1de,
     type: 3}
   m_ValidKeywords:
@@ -39,7 +39,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 17bedc59527976c428f3cf989ed87090, type: 3}
+        m_Texture: {fileID: 2800000, guid: 040ff517b5d472e4ea1c338b54cde60f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Billboard:
@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 17ba58f884a1fce4c8a6c73e1ca74e77, type: 3}
+        m_Texture: {fileID: 2800000, guid: ecc13f9f612104444ab502267fb2ce23, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ColorMask:
@@ -103,11 +103,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 17bedc59527976c428f3cf989ed87090, type: 3}
+        m_Texture: {fileID: 2800000, guid: 040ff517b5d472e4ea1c338b54cde60f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: b28d49cb99ca84945998bec9d777e3a2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1323446646828494b8c6c4431ff22383, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MossMetalMap:
@@ -372,7 +372,7 @@ Material:
     - _Tint2: {r: 0, g: 0, b: 1, a: 1}
     - _Tint3: {r: 1, g: 0, b: 0.40315866, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &564840363475297788
+--- !u!114 &818433938861792018
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

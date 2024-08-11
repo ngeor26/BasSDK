@@ -53,6 +53,9 @@ TagManager:
   - RoomStaticBatch
   - AlwaysFreeClimb
   - Projectile
+  - IgnoreCollision
+  - Fire
+  - Gravity
   layers:
   - Default
   - TransparentFX
