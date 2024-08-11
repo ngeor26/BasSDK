@@ -424,21 +424,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 64064722773463485, guid: d3dd0ea306273074f9a8f1ee8c78638f,
-        type: 3}
-      propertyPath: m_Name
-      value: Trail
-      objectReference: {fileID: 0}
-    - target: {fileID: 119326541494265911, guid: d3dd0ea306273074f9a8f1ee8c78638f,
-        type: 3}
-      propertyPath: m_Name
-      value: BottomPlane
-      objectReference: {fileID: 0}
-    - target: {fileID: 376074406733252836, guid: d3dd0ea306273074f9a8f1ee8c78638f,
-        type: 3}
-      propertyPath: m_UseGravity
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3116301401661168978, guid: d3dd0ea306273074f9a8f1ee8c78638f,
         type: 3}
       propertyPath: m_RootOrder

@@ -2080,7 +2080,7 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 1
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   startDelay:
@@ -6893,7 +6893,7 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 1
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   startDelay:
@@ -11845,6 +11845,7 @@ GameObject:
   - component: {fileID: 3116301401661168978}
   - component: {fileID: 3684003963277697519}
   - component: {fileID: 376074406733252836}
+  - component: {fileID: 1401390425700056443}
   m_Layer: 0
   m_Name: Euporia
   m_TagString: Untagged
@@ -11936,6 +11937,23 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1401390425700056443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8559242352953012412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1033999471, guid: ec44da7df0fde25468693fbe1757a012, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LusterA: {fileID: 8047362488879384962}
+  LusterB: {fileID: 8047362490650068116}
+  LusterSound: {fileID: 8047362490901996916}
+  model: {fileID: 2495024707689625000}
+  trail: {fileID: 6225685221090593618}
 --- !u!1 &8737907306892626031
 GameObject:
   m_ObjectHideFlags: 0
