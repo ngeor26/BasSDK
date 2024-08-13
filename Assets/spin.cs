@@ -13,6 +13,6 @@ public class spin : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(0, 0, 5);
+        gameObject.GetComponent<Rigidbody>().angularVelocity = new Vector3(0, 0, 2f);
     }
 }
